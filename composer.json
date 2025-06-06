@@ -1,0 +1,17 @@
+{
+  "name": "cytracon/pagebuilderpreview",
+  "description": "Magento PageBuilderPreview Plugin",
+  "type": "magento2-module",
+  "license": "proprietary",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Cytracon\\PageBuilderPreview\\": ""
+    }
+  },
+  "require": {
+    "php": "^7.4 || ^8.0"
+  }
+}
