@@ -43,7 +43,7 @@ class View extends \Magento\Framework\View\Element\Template implements \Magento\
     /**
      * Get current form
      *
-     * @return \BlueFormBuilder\Core\Model\Form
+     * @return \Cytracon\BlueFormBuilderCore\Model\Form
      */
     public function getCurrentProfile()
     {
